@@ -1,4 +1,4 @@
-import json
+#Copyright Wibucode
 import requests, os, sys
 def main():
 	os.system("clear")
